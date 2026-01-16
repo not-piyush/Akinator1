@@ -45,6 +45,15 @@ ANIME = {
             "can_fly": False, "uses_guns": False, "teenager": True,
             "dark_theme": True,
         },
+        {
+            "name": "Light Yagami 💀",
+            "is_human": True, "has_powers": False, "uses_magic": False,
+            "uses_energy": False, "from_naruto": False, "from_dbz": False,
+            "from_one_piece": False, "is_pirate": False, "is_ninja": False,
+            "is_protagonist": False, "is_villain": True, "has_sword": False,
+            "can_fly": False, "uses_guns": False, "teenager": True,
+            "dark_theme": True,
+        },
     ],
 
     "questions": [
