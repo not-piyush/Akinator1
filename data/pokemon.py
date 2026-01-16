@@ -45,6 +45,15 @@ POKEMON = {
             "yellow": False, "animal_like": True,
             "humanoid": False, "rare": False,
         },
+        {
+            "name": "Gyarados 🌊",
+            "electric": False, "fire": False, "water": True, "grass": False,
+            "flying": True, "legendary": False, "cute": False,
+            "four_legs": False, "can_evolve": True,
+            "starter": False, "strong": True,
+            "yellow": False, "animal_like": True,
+            "humanoid": False, "rare": True,
+        },
     ],
 
     "questions": [
