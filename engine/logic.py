@@ -3,7 +3,7 @@ class AkinatorEngine:
         self.data = data
         self.update_ui = update_ui
         self.MAX_QUESTIONS = 10
-        self.MIN_GUESS_QUESTIONS = 5
+        self.MIN_GUESS_QUESTIONS = 6
         self.CONFIDENCE_THRESHOLD = 70
         self.reset()
 
