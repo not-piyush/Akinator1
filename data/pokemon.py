@@ -63,7 +63,7 @@ POKEMON = {
         ("Is it Grass-type?", "grass"),
         ("Can it fly?", "flying"),
         ("Is it Legendary?", "legendary"),
-        ("Is it cute?", "cute"),
+        ("Do you think it's cute?", "cute"),
         ("Does it have four legs?", "four_legs"),
         ("Can it evolve?", "can_evolve"),
         ("Is it a starter Pokémon?", "starter"),
