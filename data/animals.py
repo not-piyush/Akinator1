@@ -129,6 +129,13 @@ ANIMALS = {
             "barks": False, "meows": False, "flies": False, "water_animal": False,
             "has_fur": False, "four_legs": True, "nocturnal": False, "cold_region": False,
         },
+        {
+            "name": "Lady Bug 🐞",
+            "is_living": True, "is_animal": True, "is_pet": False, "is_mammal": False,
+            "size_large": False, "domestic": False, "wild": True, "aggressive": False,
+            "barks": False, "meows": False, "flies": True, "water_animal": False,
+            "has_fur": False, "four_legs": False, "nocturnal": False, "cold_region": False,
+        }
     ],
 
     "questions": [
